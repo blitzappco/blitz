@@ -11,7 +11,9 @@
 ## Tehnologia Aleasă
 
 Am ales următoarea tehnologie pentru dezvoltarea aplicației noastre:
-- [Introduceți tehnologia aici, de exemplu, React, Flutter, etc.]
+-
+-
+-
 
 ## Prezentare
 
