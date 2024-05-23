@@ -10,10 +10,31 @@
 
 ## Tehnologia Aleasă
 
-Am ales următoarea tehnologie pentru dezvoltarea aplicației noastre:
--
--
--
+Am ales următoarele tehnologii pentru dezvoltarea aplicației noastre:
+- **Backend:**
+  - **Limbaj de programare:** Go
+  - **Framework:** Fiber (bazat pe fasthttp)
+  - **Bază de date:** MongoDB, utilizând librăria mongo-go-driver
+  - **Sistem de caching:** Redis, utilizând biblioteca go-redis
+  - **Serviciu de mesaje SMS:** Twilio, utilizând biblioteca twilio-go
+  - **Autentificare și token-uri:** Biblioteca sjwt pentru token-uri JSON
+  - **Hashing:** bcrypt pentru criptarea parolelor
+  - **Serializare JSON:** pachetul encoding/json din Go
+  - **Sistem de plăți:** Stripe, utilizând biblioteca stripe-go
+
+- **Frontend:**
+  - **SDK:** Flutter
+  - **Limbaj de programare:** Dart
+  - **Hărți:** google_maps_flutter
+  - **Gestionarea stării:** Provider
+  - **Obținerea locației:** Geolocator
+  - **Geocodare:** Pachetul de geocodare Google
+  - **Fluxuri de date asincrone:** Dart Streams
+
+- **Design UI:**
+  - **Prototipare:** Figma
+  - **Grafica:** Adobe Illustrator și Photoshop
+
 
 ## Prezentare
 
