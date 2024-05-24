@@ -42,7 +42,7 @@ Am ales următoarele tehnologii pentru dezvoltarea aplicației noastre:
 
 ## Business Plan
 
-[Introduceți aici un scurt rezumat al planului de afaceri sau includeți un link către documentul complet.]
+[Link către business plan](https://github.com/blitzappco/blitz/blob/main/business_plan.pdf)
 
 ## Link-uri Video
 
