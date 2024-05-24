@@ -42,11 +42,11 @@ Am ales următoarele tehnologii pentru dezvoltarea aplicației noastre:
 
 ## Business Plan
 
-[Link către business plan](https://github.com/blitzappco/blitz/blob/main/business_plan.pdf)
+[Link către business plan](https://github.com/blitzappco/blitz/blob/main/livrabile/business_plan.pdf)
 
 ## Link-uri Video
 
-- [Link către video-ul pentru pitch](https://drive.google.com/drive/folder-link-sau-youtube-link)
-- [Link către video-ul pentru demo](https://drive.google.com/drive/folder-link-sau-youtube-link)
+- [Link către video-ul pentru pitch](https://youtu.be/wuUiw0F1gKA)
+- [Link către video-ul pentru demo](https://youtu.be/AglHXYypdfs)
 
 ---
