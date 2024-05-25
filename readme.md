@@ -5,13 +5,16 @@
 **Nume echipă:** Blitz
 
 **Școli de proveniență:**
+
 - Colegiul Național „Ion Luca Caragiale” Ploiești
 - Colegiul Național „Nichita Stănescu” Ploiești
 
 ## Tehnologia Aleasă
 
 Am ales următoarele tehnologii pentru dezvoltarea aplicației noastre:
+
 - **Backend:**
+
   - **Limbaj de programare:** Go
   - **Framework:** Fiber (bazat pe fasthttp)
   - **Bază de date:** MongoDB, utilizând librăria mongo-go-driver
@@ -23,6 +26,7 @@ Am ales următoarele tehnologii pentru dezvoltarea aplicației noastre:
   - **Sistem de plăți:** Stripe, utilizând biblioteca stripe-go
 
 - **Frontend:**
+
   - **SDK:** Flutter
   - **Limbaj de programare:** Dart
   - **Hărți:** google_maps_flutter
@@ -36,7 +40,6 @@ Am ales următoarele tehnologii pentru dezvoltarea aplicației noastre:
   - **Prototipare:** Figma
   - **Grafica:** Adobe Illustrator și Photoshop
 
-
 ## Prezentare
 
 **Limba străină aleasă pentru prezentare:** Engleză
@@ -49,5 +52,3 @@ Am ales următoarele tehnologii pentru dezvoltarea aplicației noastre:
 
 - [Link către video-ul pentru demo](https://youtu.be/AglHXYypdfs)
 - [Link către video-ul pentru pitch](https://youtu.be/wuUiw0F1gKA)
-
----
