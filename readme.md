@@ -46,7 +46,7 @@ Am ales următoarele tehnologii pentru dezvoltarea aplicației noastre:
 
 ## Link-uri Video
 
-- [Link către video-ul pentru pitch](https://youtu.be/wuUiw0F1gKA)
 - [Link către video-ul pentru demo](https://youtu.be/AglHXYypdfs)
+- [Link către video-ul pentru pitch](https://youtu.be/wuUiw0F1gKA)
 
 ---
