@@ -52,6 +52,4 @@ flutter run
 ```
 
 ## Troubleshooting
-
-- **Flutter:**
   - If you encounter issues with Flutter, check the official [Flutter documentation](https://flutter.dev/docs) or run `flutter doctor` to diagnose common problems.
