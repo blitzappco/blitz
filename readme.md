@@ -26,6 +26,7 @@ Am ales următoarele tehnologii pentru dezvoltarea aplicației noastre:
   - **SDK:** Flutter
   - **Limbaj de programare:** Dart
   - **Hărți:** google_maps_flutter
+  - **Sisem de plăți:** Stripe, utilizand biblioteca flutter_stripe
   - **Gestionarea stării:** Provider
   - **Obținerea locației:** Geolocator
   - **Geocodare:** Pachetul de geocodare Google
