@@ -1,6 +1,7 @@
 ## Introduction
+In addition to delivering the *.ipa and the *.apk files, we have taken the liberty to upload our application on TestFlight for iOS users. The juries could access the app [link](https://testflight.apple.com/join/us88QeCM).
 
-If the jury is unable to run the *.ipa or the *.apk files, we have built this guide to provide step-by-step instructions on how to build and run the frontend Flutter application. 
+If the jury cannot run the *.ipa or the *.apk files, we have built this guide to provide step-by-step instructions on how to build and run the frontend Flutter application. 
 
 ## Prerequisites
 
@@ -10,7 +11,7 @@ If the jury is unable to run the *.ipa or the *.apk files, we have built this gu
 - Flutter SDK
 - Android Studio (for Android) or Xcode (for iOS)
 - A code editor (Visual Studio Code is recommended)
-- A Google Maps API key, which can be obtained from [here](https://developers.google.com/maps).
+- A Google Maps API key which can be obtained from [here](https://developers.google.com/maps).
 
 ### Step 1: Install Flutter
 
